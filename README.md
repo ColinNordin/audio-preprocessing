@@ -1,6 +1,6 @@
-# Audio segmentation
+# Audio preprocessing for beginners
 
-A tutorial for doing audio segmentation when preprocessing audio for machine learning applications.
+Work in progress. A set of tutorials for doing preprocessing of audio for machine learning applications.
 
 ## Dependencies
 `librosa` \
